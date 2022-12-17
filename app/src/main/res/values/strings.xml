@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">bookReader</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_view_label">List View</string>
+    <string name="grid_view_label">Grid View</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="back">Back</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="bookName1">The Old Man and the Sea</string>
+    <string name="author1">Ernest Hemingway</string>
+    <string name="summary1">This short novel, already a modern classic, is the superbly told, tragic story of a Cuban fisherman in the Gulf Stream and the giant Marlin he kills and loses—specifically referred to in the citation accompanying the author\'s Nobel Prize for literature in 1954.</string>
+    <string name="publish1">Published: January 1, 1996 by Scribner</string>
+    <string name="version1">Edition: First</string>
+
+    <string name="bookName2">1984</string>
+    <string name="author2">George Orwell</string>
+    <string name="summary2">The new novel by George Orwell is the major work towards which all his previous writing has pointed. Critics have hailed it as his "most solid, most brilliant" work. Though the story of Nineteen Eighty-Four takes place thirty-five years hence, it is in every sense timely. The scene is London, where there has been no new housing since 1950 and where the city-wide slums are called Victory Mansions. Science has abandoned Man for the State. As every citizen knows only too well, war is peace.</string>
+    <string name="publish2">Published by Plume, 1983</string>
+    <string name="version2">Edition: First</string>
+
+    <string name="bookName3">One Hundred Years Of Solitude</string>
+    <string name="author3">Gabriel Garcia Marquez</string>
+    <string name="summary3">The brilliant, bestselling, landmark novel that tells the story of the Buendia family, and chronicles the irreconcilable conflict between the desire for solitude and the need for love—in rich, imaginative prose that has come to define an entire genre known as "magical realism."</string>
+    <string name="publish3">Published: May 1, 1967 by Editorial Sudamericana</string>
+    <string name="version3">Edition: First</string>
+
+    <string name="bookName4">The Compound Effect</string>
+    <string name="author4">Darren Hardy</string>
+    <string name="summary4">No gimmicks. No Hyperbole. No Magic Bullet. The Compound Effect is based on the principle that decisions shape your destiny. Little, everyday decisions will either take you to the life you desire or to disaster by default. Darren Hardy, publisher of Success Magazine, presents The Compound Effect, a distillation of the fundamental principles that have guided the most phenomenal achievements in business, relationships, and beyond. This easy-to-use, step-by-step operating system allows you to multiply your success, chart your progress, and achieve any desire. If you’re serious about living an extraordinary life, use the power of The Compound Effect to create the success you want.</string>
+    <string name="publish4">Published: January 1, 2010 by SUCCESS Books</string>
+    <string name="version4">Edition: First</string>
+
+    <string name="bookName5">Harry Potter and the Philosopher\'s Stone</string>
+    <string name="author5">J.K. Rowling</string>
+    <string name="summary5">Harry Potter thinks he is an ordinary boy - until he is rescued by an owl, taken to Hogwarts School of Witchcraft and Wizardry, learns to play Quidditch and does battle in a deadly duel. The Reason ... HARRY POTTER IS A WIZARD!</string>
+    <string name="publish5">Published: June 30, 1997 by Bloomsbury Publishing</string>
+    <string name="version5">Edition: First</string>
+
+    <string name="bookImage">Image of book</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/ListView">
+
+    <fragment
+        android:id="@+id/ListView"
+        android:name="com.example.bookreader.ListView"
+        android:label="@string/list_view_label"
+        tools:layout="@layout/fragment_first">
+
+        <action
+            android:id="@+id/action_ListView_to_GridView"
+            app:destination="@id/GridView" />
+    </fragment>
+    <fragment
+        android:id="@+id/GridView"
+        android:name="com.example.bookreader.GridView"
+        android:label="@string/grid_view_label"
+        tools:layout="@layout/fragment_second">
+
+        <action
+            android:id="@+id/action_GridView_to_ListView"
+            app:destination="@id/ListView" />
+    </fragment>
+</navigation>
